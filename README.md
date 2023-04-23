@@ -26,7 +26,7 @@ git clone --recursive https://github.com/WongKinYiu/yolov7.git -b u6 --depth 1
 
 ![Screenshot_20230423_020343](./assets/Screenshot_20230423_020343.png)
 
-替换可以用如下脚本（如果你是linux请使用*`*mv*`*， Windows用户可以直接复制粘贴或者替换*`*mv*`*为*`*move*`*）
+替换可以用如下脚本（如果你是linux请使用`mv`， Windows用户可以直接复制粘贴或者替换`mv`*为`move`）
 
 ```shell
 # On Linux
